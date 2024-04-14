@@ -13,6 +13,7 @@ public class taskService {
     private ArrayList<taskEntity> tasks = new ArrayList<>();
     private int taskId = 1;
     private final SimpleDateFormat deadlineformatter = new SimpleDateFormat("dd/MM/yyyy");
+
     public taskEntity addTask(String title, String description, String deadline) throws ParseException {
         taskEntity task = new taskEntity();
         task.setId(taskId);
