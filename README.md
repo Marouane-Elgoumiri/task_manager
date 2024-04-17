@@ -1,13 +1,17 @@
 # task_manager
+
 <div align="center">
-  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](Link)
-  [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](Link)
-  [![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](Link)
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](Link)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](Link)
+[![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](Link)
+
 </div>
 
 
 
 ## API Endpoints:
+
 **GET**: Get all tasks: 
 ![getAllTasks](https://github.com/Marouane-Elgoumiri/task_manager/assets/96888594/65749e4d-65fb-4781-82ee-3b64a450354c)
 
@@ -24,5 +28,4 @@
 ![GetNoteFromTask](https://github.com/Marouane-Elgoumiri/task_manager/assets/96888594/02f390d6-c3db-40c7-b750-64cbf4318202)
 
 **POST**: Add a note to a task:
-
 ![addNoteToTask](https://github.com/Marouane-Elgoumiri/task_manager/assets/96888594/da2e7919-af4f-4b69-a81b-db5d3877f46b)
