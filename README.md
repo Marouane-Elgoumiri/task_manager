@@ -1,6 +1,6 @@
 # task_manager
-![https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white] https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white  	https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
-
+[![Google]https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 ## API Endpoints:
 **GET**: Get all tasks: 
 ![getAllTasks](https://github.com/Marouane-Elgoumiri/task_manager/assets/96888594/65749e4d-65fb-4781-82ee-3b64a450354c)
