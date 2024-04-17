@@ -1,5 +1,21 @@
 # task_manager
 
-**GET**: get all tasks:
+## API Endpoints:
+**GET**: Get all tasks: 
+![getAllTasks](https://github.com/Marouane-Elgoumiri/task_manager/assets/96888594/65749e4d-65fb-4781-82ee-3b64a450354c)
 
-![Screenshot from 2024-04-14 17-11-02](https://github.com/Marouane-Elgoumiri/task_manager/assets/96888594/c4b273ed-f337-4fdf-851c-ad88bbaf7684)
+**GET**: Get task by id:
+![getTaskById](https://github.com/Marouane-Elgoumiri/task_manager/assets/96888594/3b8e4f04-fa89-4ff0-a43b-b6034a626c41)
+
+**POST**: Create a Task:
+![createtask](https://github.com/Marouane-Elgoumiri/task_manager/assets/96888594/01f64e4e-c98b-47bc-8e09-5ed708a252f7)
+
+**PATCH**: Update task:
+![updateTask](https://github.com/Marouane-Elgoumiri/task_manager/assets/96888594/34bfcb3c-4d7a-4c1e-a66e-ac141176b444)
+
+**GET**: Get note from task:
+![GetNoteFromTask](https://github.com/Marouane-Elgoumiri/task_manager/assets/96888594/02f390d6-c3db-40c7-b750-64cbf4318202)
+
+**POST**: Add a note to a task:
+
+![addNoteToTask](https://github.com/Marouane-Elgoumiri/task_manager/assets/96888594/da2e7919-af4f-4b69-a81b-db5d3877f46b)
