@@ -1,5 +1,5 @@
 # task_manager
-[![Google]https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
+[![Google](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Link)
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 ## API Endpoints:
 **GET**: Get all tasks: 
