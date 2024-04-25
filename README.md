@@ -1,4 +1,4 @@
-# task_manager
+# Task manager backend app with Spring boot
 
 <div align="center">
 
